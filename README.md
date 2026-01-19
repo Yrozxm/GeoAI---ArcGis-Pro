@@ -31,4 +31,4 @@ Execucao: Navegue ate a pasta do projeto e execute o comando:
 Configuracao: Insira a sua chave de API na barra lateral da aplicacao para ativar as funcionalidades de IA.
 
 Notas Tecnicas
-A aplicacao utiliza o modelo Llama 3.3 via Groq para garantir baixa latencia nas respostas tecnicas. A comunicacao com o ArcGIS Pro e feita atraves de chamadas de subprocesso ao executavel python.exe do ambiente Conda da Esri.
+A apli cacao utiliza o modelo Llama 3.3 via Groqpara garantir baixa latencia nas respostas tecnicas. A comunicacao com o ArcGIS Pro e feita atraves de chamadas de subprocesso ao executavel python.exe do ambiente Conda da Esri.
